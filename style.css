@@ -80,3 +80,7 @@ th {
   padding: 5px;
   text-align: center;
 }
+
+tr {
+  border-bottom: 1px solid #000;
+}
